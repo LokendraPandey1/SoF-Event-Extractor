@@ -42,7 +42,7 @@ Our system:
 
 ---
 
-## 👥 Team  
+## Team  
 - Lokendra Pandey
 - Pratik Sharma
 - Vivek Prajapati
