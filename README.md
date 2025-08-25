@@ -47,3 +47,9 @@ Our system:
 - Pratik Sharma
 - Vivek Prajapati
 - Sarthak Uniyal
+
+---
+
+## To run the project run the following commands
+ -> npm install
+ -> npm run dev
