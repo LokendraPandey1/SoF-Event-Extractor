@@ -50,6 +50,5 @@ Our system:
 
 ---
 
-## To run the project run the following commands
- - npm install
- - npm run dev
+## Live URL
+ https://68ac9da75c26a229bb5ec87b--sof-event-extractor.netlify.app
